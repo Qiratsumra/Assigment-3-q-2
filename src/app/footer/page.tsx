@@ -6,7 +6,7 @@ import GitHub from "../../../public/whiteGithub.png";
 export default function Footer(){
     return(
       <footer>
-        <div className="flex justify-between bg-black w-full p-5 text-red-200 max-sm:w-fit max-sm:gap-4 ">
+        <div className="flex justify-between bg-zinc-900 w-full p-5 text-red-200 max-sm:w-fit max-sm:gap-4 ">
           
 
           {/* Contact  Us */}

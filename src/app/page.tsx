@@ -8,6 +8,7 @@ import Link from "next/link";
 import qiratProfile from "../../public/qirat.linkdin.jpg";
 
 import Header from "./header/page";
+import Footer from "./footer/page";
 
 export default function Home() {
   return (
@@ -40,7 +41,7 @@ export default function Home() {
         </div>
         </div>
     {/* Footer Section */}
-    
+    <Footer/>
   </main>
   );
 }
